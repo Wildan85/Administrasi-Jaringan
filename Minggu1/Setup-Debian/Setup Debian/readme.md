@@ -1,4 +1,4 @@
-![Arsitektur Jaringan Kampus](arsitektur.jpeg)
+
 
 
 SET UP DEBIAN
