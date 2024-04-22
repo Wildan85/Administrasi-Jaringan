@@ -1,4 +1,4 @@
-# Internet adalah jaringan global yang terdiri dari jutaan perangkat yang terhubung secara fisik melalui kabel serat optik, kabel tembaga, satelit, dan teknologi nirkabel lainnya. Proses kerja Internet melibatkan beberapa tahapan yang kompleks, di antaranya:
+- Internet adalah jaringan global yang terdiri dari jutaan perangkat yang terhubung secara fisik melalui kabel serat optik, kabel tembaga, satelit, dan teknologi nirkabel lainnya. Proses kerja Internet melibatkan beberapa tahapan yang kompleks, di antaranya:
 
 1. Perangkat Pengguna: Pengguna mengakses Internet melalui perangkat seperti komputer, smartphone, tablet, dan perangkat lainnya. Perangkat ini terhubung ke jaringan melalui penyedia layanan internet, baik melalui koneksi kabel maupun nirkabel.
 
