@@ -93,7 +93,7 @@
 
 # Perbedaan Debian 12 (Bookworm) dan Debian 11 (Bullseye)
 
-![Arsitektur Jaringan Kampus](23.png)
+![Arsitektur Jaringan Kampus](24.png)
 
 # Fungsi dari File "/etc/group" dan Formatnya
 File "/etc/group" berisi informasi tentang grup-grup pengguna pada sistem. Setiap baris mewakili satu grup dan memiliki format sebagai berikut:
