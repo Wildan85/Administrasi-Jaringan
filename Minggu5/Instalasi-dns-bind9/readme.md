@@ -4,6 +4,7 @@
 
 1. Buka terminal
 2. Update paket sistem:
+   
 ![Arsitektur Jaringan Kampus](1.png)
 
 ![Arsitektur Jaringan Kampus](2.png)
