@@ -7,93 +7,92 @@
 
 2. Masukkan nama dan file iso debian di ISO Image
    
-![Arsitektur Jaringan Kampus](2.png)
+![](Assets/2.png)
 
 3. Atur Base Memory dan CPU yang dibutuhkan
    
-![Arsitektur Jaringan Kampus](3.png)
+![](Assets/3.png)
 
 4. Atur penyimpanan sesuai yang dibutuhkan
    
-![Arsitektur Jaringan Kampus](4.png)
+![](Assets/4.png)
 
 5. Summary berisi detail OS yang di atur sebelumnya, kemudian finish
     
-![Arsitektur Jaringan Kampus](5.png)
+![](Assets/5.png)
 
 6. Tampilan awal set debian, pilih bahasa yg akan digunakan
     
-![Arsitektur Jaringan Kampus](6.png)
+![](Assets/6.png)
 
 7. Pilih lokasi
     
-![Arsitektur Jaringan Kampus](7.png)
+![](Assets/7.png)
 
-![Arsitektur Jaringan Kampus](8.png)
+![](Assets/8.png)
 
 8. Set keyboard
     
-![Arsitektur Jaringan Kampus](9.png)
+![](Assets/9.png)
 
 9. Masukkan hostname (SysAdmin-NRP)
     
-![Arsitektur Jaringan Kampus](10.png)
+![](Assets/10.png)
 
 10. Nama domain kosong/default
     
-![Arsitektur Jaringan Kampus](11.png)
-
+![](Assets/11.png)
 11. Masukkan password
     
-![Arsitektur Jaringan Kampus](12.png)
+![](Assets/12.png)
 
 12. Masukkan username
     
-![Arsitektur Jaringan Kampus](13.png)
+![](Assets/13.png)
 
 13. Atur waktu
     
-![Arsitektur Jaringan Kampus](14.png)
+![](Assets/14.png)
 
 14. Atur partisi hard disk, pilih manual
     
-![Arsitektur Jaringan Kampus](15.png)
+![](Assets/15.png)
 
 15. Set bagian vbox harddisk
     
-![Arsitektur Jaringan Kampus](16.png)
+![](Assets/16.png)
 
 16. Pilih Ya
     
-![Arsitektur Jaringan Kampus](17.png)
+![](Assets/17.png)
 
 17. Partisi yang selesai dibuat
     
-![Arsitektur Jaringan Kampus](18.png)
+![](Assets/18.png)
 
 18. Pilih kobo.pens.ac.id untuk mengatur pengelola paket
     
-![Arsitektur Jaringan Kampus](19.png)
+![](Assets/19.png)
 
 19. Kosongkan alamat http
     
-![Arsitektur Jaringan Kampus](20.png)
+![](Assets/20.png)
 
 20. Pasang boot loader GRUB dan pilih hardisk yang sebelumnya
     
-![Arsitektur Jaringan Kampus](21.png)
+![](Assets/21.png)
 
 21. Selesai Instalasi
 
-![Arsitektur Jaringan Kampus](22.png)
+![](Assets/22.png)
 
 22. Tampilan Debian
-    
-![Arsitektur Jaringan Kampus](23.png)
+
+![](Assets/23.png)
 
 # Perbedaan Debian 12 (Bookworm) dan Debian 11 (Bullseye)
 
-![Arsitektur Jaringan Kampus](24.png)
+![](Assets/24.png)
 
 # Fungsi dari File "/etc/group" dan Formatnya
 File "/etc/group" berisi informasi tentang grup-grup pengguna pada sistem. Setiap baris mewakili satu grup dan memiliki format sebagai berikut:
