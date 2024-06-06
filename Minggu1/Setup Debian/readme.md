@@ -3,7 +3,7 @@
 
 1. Siapkan Oracle VM VirtualBox, kemudian pilih 'New'
    
-![Arsitektur Jaringan Kampus](1.png)
+![](Assets/1.png)
 
 2. Masukkan nama dan file iso debian di ISO Image
    
